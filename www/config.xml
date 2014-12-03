@@ -4,7 +4,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
 		id="com.game.eskillsgame"
 		version="0.0.1">
-	<name>eskillsgame</name>
+	<name>eskillsgame</nameSasha Doyle>
+<description>This ESkills game was developed by Sasha Doyle for ITGIrls 2014!</description
 		<gap:platform name="android" />
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
